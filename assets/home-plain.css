@@ -18,3 +18,5 @@
 }
 
 .contact-lines { list-style: none; padding: 0; display: grid; gap: .3rem; }
+.roles .roles__bullets { grid-column: 1 / -1; list-style: disc; padding-left: 1.1rem; margin: .4rem 0 0; gap: .35rem; }
+.roles .roles__bullets li { display: list-item; }
