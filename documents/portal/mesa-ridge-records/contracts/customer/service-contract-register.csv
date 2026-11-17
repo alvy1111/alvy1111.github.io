@@ -1,0 +1,8 @@
+Agreement,Customer,Service Start,Service End,Annual Fee,Monthly Amount,Invoice,Invoice Date,File
+SVC-202507-RBH,Red Butte Hotel and Spa,2025-07-01,2026-06-30,9600.00,800.00,,,svc-202507-rbh.pdf
+SVC-202509-VMS,Veltrane Medical Supply,2025-09-01,2026-08-31,12000.00,1000.00,,,svc-202509-vms.pdf
+SVC-202511-JGS,Juniper Grove Schools,2025-11-01,2026-10-31,7200.00,600.00,,,svc-202511-jgs.pdf
+SVC-202603-QOP,Quillane Office Parks,2026-03-01,2027-02-28,6000.00,500.00,11362,2026-03-01,svc-202603-qop.pdf
+SVC-202605-OC,Ostrelle Clinics,2026-05-01,2027-04-30,8400.00,700.00,11642,2026-05-01,svc-202605-oc.pdf
+SVC-202609-VMS,Veltrane Medical Supply,2026-09-01,2027-08-31,12000.00,1000.00,11790,2026-09-02,svc-202609-vms.pdf
+SVC-202610-BHG,Basin Hospitality Group,2026-10-01,2027-09-30,18000.00,1500.00,11833,2026-09-20,svc-202610-bhg.pdf

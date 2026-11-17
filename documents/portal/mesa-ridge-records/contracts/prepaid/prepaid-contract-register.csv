@@ -1,0 +1,6 @@
+Contract ID,Vendor,Item,GL,Paid Date,Total,Coverage Start,Coverage End,Months,Monthly Amount,Paid Via,File
+PPD-ERP-2026,Quorvex ERP,ERP annual subscription,14000,2026-01-05,14400.00,2026-01-01,2026-12-31,12,1200.00,supply-operating,prepaid/ppd-erp-2026.pdf
+PPD-RW-2026,Trailvex Software,Route-planning software license,14000,2026-09-03,4800.00,2026-09-01,2027-08-31,12,400.00,supply-card,prepaid/ppd-rw-2026.pdf
+PPD-RENT-2026-10,Sunbelt Industrial Properties,October 2026 warehouse rent (main building),14000,2026-09-28,14500.00,2026-10-01,2026-10-31,1,14500.00,supply-operating,leases/main-building-lease-abstract-and-tenant-ledger.pdf
+PPD-GL-2025,Sagebrush Mutual Insurance,General liability policy 2025-26,14100,2025-09-01,26400.00,2025-09-01,2026-08-31,12,2200.00,prior year,prepaid/ppd-gl-2025.pdf
+PPD-GL-2026,Sagebrush Mutual Insurance,General liability policy 2026-27,14100,2026-09-01,27600.00,2026-09-01,2027-08-31,12,2300.00,supply-operating,prepaid/ppd-gl-2026.pdf

@@ -1,0 +1,46 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Brelvane Foods,12006,2026-08-03,2026-09-02,0,Current,22271.44
+Brelvane Foods,12029,2026-08-06,2026-09-05,0,Current,13030.09
+Brelvane Foods,12007,2026-08-11,2026-09-10,0,Current,14816.41
+Brelvane Foods,12034,2026-08-14,2026-09-13,0,Current,22062.33
+Brelvane Foods,12004,2026-08-20,2026-09-19,0,Current,17895.85
+Brelvane Foods,12012,2026-08-21,2026-09-20,0,Current,13831.51
+Brelvane Foods,12030,2026-08-25,2026-09-24,0,Current,10661.41
+Corvane Hotels,12011,2026-08-19,2026-09-18,0,Current,11649.46
+Corvane Hotels,12018,2026-08-24,2026-09-23,0,Current,20202.02
+Harbor Point Restaurants,11868,2026-07-29,2026-08-28,3,1-30,12652.54
+Harbor Point Restaurants,11881,2026-07-30,2026-08-29,2,1-30,9565.87
+Harbor Point Restaurants,12031,2026-08-24,2026-09-23,0,Current,22758.05
+Juniper Grove Schools,12022,2026-08-06,2026-09-05,0,Current,22377.97
+Juniper Grove Schools,12014,2026-08-07,2026-09-06,0,Current,16560.31
+Juniper Grove Schools,12023,2026-08-13,2026-09-12,0,Current,18518.73
+Juniper Grove Schools,12021,2026-08-21,2026-09-20,0,Current,12453.18
+Lunamere Resort,12037,2026-08-19,2026-09-18,0,Current,14898.22
+Lunamere Resort,12042,2026-08-19,2026-09-18,0,Current,12604.15
+Ostrelle Clinics,12019,2026-08-24,2026-09-23,0,Current,7712.97
+Pellavo Property Management,12038,2026-08-24,2026-09-23,0,Current,22353.23
+Quillane Office Parks,11362,2026-03-01,2026-03-01,183,Over 90,6000.00
+Quillane Office Parks,12020,2026-08-17,2026-09-16,0,Current,19226.22
+Quillane Office Parks,12041,2026-08-28,2026-09-27,0,Current,21657.37
+Red Butte Hotel and Spa,12017,2026-08-14,2026-09-13,0,Current,21231.35
+Saguaro Fitness Clubs,11876,2026-07-30,2026-08-29,2,1-30,9280.09
+Saguaro Fitness Clubs,11882,2026-07-30,2026-08-29,2,1-30,11435.96
+Saguaro Fitness Clubs,12027,2026-08-03,2026-09-02,0,Current,12057.27
+Saguaro Fitness Clubs,12005,2026-08-07,2026-09-06,0,Current,15692.72
+Saguaro Fitness Clubs,12008,2026-08-07,2026-09-06,0,Current,17663.11
+Saguaro Fitness Clubs,12016,2026-08-19,2026-09-18,0,Current,22708.44
+Saguaro Fitness Clubs,12040,2026-08-20,2026-09-19,0,Current,8166.72
+Saguaro Fitness Clubs,12033,2026-08-26,2026-09-25,0,Current,12896.75
+Tarvella Market,12010,2026-08-10,2026-09-09,0,Current,17276.70
+Tarvella Market,12032,2026-08-12,2026-09-11,0,Current,19663.38
+Tarvella Market,12013,2026-08-25,2026-09-24,0,Current,17495.41
+Veldane Resorts Purchasing,11865,2026-07-29,2026-08-28,3,1-30,21971.95
+Veldane Resorts Purchasing,12024,2026-08-17,2026-09-16,0,Current,11501.23
+Veldane Resorts Purchasing,12003,2026-08-19,2026-09-18,0,Current,16613.51
+Veldane Resorts Purchasing,12035,2026-08-19,2026-09-18,0,Current,13705.71
+Veldane Resorts Purchasing,12015,2026-08-26,2026-09-25,0,Current,16300.71
+Veltrane Medical Supply,12036,2026-08-04,2026-09-03,0,Current,10639.68
+Veltrane Medical Supply,12039,2026-08-18,2026-09-17,0,Current,13760.63
+Veltrane Medical Supply,12009,2026-08-24,2026-09-23,0,Current,11480.64
+Wexmoor Senior Living,12026,2026-08-05,2026-09-04,0,Current,16205.65
+Wexmoor Senior Living,12025,2026-08-07,2026-09-06,0,Current,8559.71

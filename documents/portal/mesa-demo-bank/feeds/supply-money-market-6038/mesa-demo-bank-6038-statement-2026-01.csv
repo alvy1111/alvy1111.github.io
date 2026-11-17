@@ -1,0 +1,7 @@
+Institution,Mesa Demo Bank (Fictional)
+Account,000-DEMO-6038,Business Money Market
+Period,01/01/2026,01/31/2026
+Notice,SAMPLE DOCUMENT · FICTIONAL COMPANY AND BANK · NOT A REAL ACCOUNT
+
+Posting Date,Description,Amount,Balance,Type,Check Number,Bank Reference
+01/31/2026,INTEREST PAID,87.13,150087.13,INTEREST,,26013160380001

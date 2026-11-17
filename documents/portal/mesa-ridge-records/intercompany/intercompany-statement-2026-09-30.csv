@@ -1,0 +1,33 @@
+Section,Date,Document,Description,Charge,Payment,Balance
+TRADE,2025-12-31,,Balance forward,0.00,0.00,14000.00
+TRADE,2026-01-08,CK 4037,Payment received for MRL-202512,0.00,14000.00,0.00
+TRADE,2026-01-31,MRL-202601,Invoice MRL-202601: Delivery services Jan 2026,14000.00,0.00,14000.00
+TRADE,2026-02-15,CK 5334,Payment received for MRL-202601,0.00,14000.00,0.00
+TRADE,2026-02-28,MRL-202602,Invoice MRL-202602: Delivery services Feb 2026,14000.00,0.00,14000.00
+TRADE,2026-03-15,CK 5487,Payment received for MRL-202602,0.00,14000.00,0.00
+TRADE,2026-03-31,MRL-202603,Invoice MRL-202603: Delivery services Mar 2026,14000.00,0.00,14000.00
+TRADE,2026-04-15,CK 5626,Payment received for MRL-202603,0.00,14000.00,0.00
+TRADE,2026-04-30,MRL-202604,Invoice MRL-202604: Delivery services Apr 2026,14000.00,0.00,14000.00
+TRADE,2026-05-15,CK 5767,Payment received for MRL-202604,0.00,14000.00,0.00
+TRADE,2026-05-31,MRL-202605,Invoice MRL-202605: Delivery services May 2026,14000.00,0.00,14000.00
+TRADE,2026-06-15,CK 5914,Payment received for MRL-202605,0.00,14000.00,0.00
+TRADE,2026-06-30,MRL-202606,Invoice MRL-202606: Delivery services Jun 2026,14000.00,0.00,14000.00
+TRADE,2026-07-15,CK 6059,Payment received for MRL-202606,0.00,14000.00,0.00
+TRADE,2026-07-31,MRL-202607,Invoice MRL-202607: Delivery services Jul 2026,14000.00,0.00,14000.00
+TRADE,2026-08-15,CK 6204,Payment received for MRL-202607,0.00,14000.00,0.00
+TRADE,2026-08-31,MRL-202608,Invoice MRL-202608: Delivery services Aug 2026,14000.00,0.00,14000.00
+TRADE,2026-09-15,CK 6354,Payment received for MRL-202608,0.00,14000.00,0.00
+TRADE,2026-09-30,MRL-202609,Invoice MRL-202609: Delivery services Sep 2026,14000.00,0.00,14000.00
+FUEL,2025-12-31,,Balance forward,0.00,0.00,0.00
+FUEL,2026-01-08,FUEL-202601,"Gantrel Fleet Fuel paid by Supply for Logistics, January 2026",6826.30,0.00,6826.30
+FUEL,2026-02-09,FUEL-202602,"Gantrel Fleet Fuel paid by Supply for Logistics, February 2026",6883.52,0.00,13709.82
+FUEL,2026-03-09,FUEL-202603,"Gantrel Fleet Fuel paid by Supply for Logistics, March 2026",5686.90,0.00,19396.72
+FUEL,2026-03-31,IC-Q1,Quarterly settlement paid by Logistics,0.00,19396.72,0.00
+FUEL,2026-04-08,FUEL-202604,"Gantrel Fleet Fuel paid by Supply for Logistics, April 2026",6194.36,0.00,6194.36
+FUEL,2026-05-08,FUEL-202605,"Gantrel Fleet Fuel paid by Supply for Logistics, May 2026",5569.07,0.00,11763.43
+FUEL,2026-06-08,FUEL-202606,"Gantrel Fleet Fuel paid by Supply for Logistics, June 2026",6335.71,0.00,18099.14
+FUEL,2026-06-30,IC-Q2,Quarterly settlement paid by Logistics,0.00,18099.14,0.00
+FUEL,2026-07-08,FUEL-202607,"Gantrel Fleet Fuel paid by Supply for Logistics, July 2026",6777.88,0.00,6777.88
+FUEL,2026-08-10,FUEL-202608,"Gantrel Fleet Fuel paid by Supply for Logistics, August 2026",5432.30,0.00,12210.18
+FUEL,2026-09-08,FUEL-202609,"Gantrel Fleet Fuel paid by Supply for Logistics, September 2026",6250.00,0.00,18460.18
+FUEL,2026-09-30,IC-Q3,Quarterly settlement paid by Logistics,0.00,18460.18,0.00

@@ -1,0 +1,10 @@
+Invoice,Invoice Date,Customer,Amount,Terms,Due Date,Ship Date,Bill of Lading,Service Start,Service End,File
+MRL-202601,2026-01-31,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-02-15,2026-01-31,,,,invoice-mrl-202601.pdf
+MRL-202602,2026-02-28,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-03-15,2026-02-28,,,,invoice-mrl-202602.pdf
+MRL-202603,2026-03-31,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-04-15,2026-03-31,,,,invoice-mrl-202603.pdf
+MRL-202604,2026-04-30,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-05-15,2026-04-30,,,,invoice-mrl-202604.pdf
+MRL-202605,2026-05-31,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-06-15,2026-05-31,,,,invoice-mrl-202605.pdf
+MRL-202606,2026-06-30,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-07-15,2026-06-30,,,,invoice-mrl-202606.pdf
+MRL-202607,2026-07-31,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-08-15,2026-07-31,,,,invoice-mrl-202607.pdf
+MRL-202608,2026-08-31,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-09-15,2026-08-31,,,,invoice-mrl-202608.pdf
+MRL-202609,2026-09-30,Mesa Ridge Supply Co.,14000.00,Due on the 15th of the following month,2026-10-15,2026-09-30,,,,invoice-mrl-202609.pdf

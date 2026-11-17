@@ -1,0 +1,43 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Basin Hospitality Group,11833,2026-09-20,2026-09-20,10,1-30,18000.00
+Basin Hospitality Group,12158,2026-09-25,2026-10-25,0,Current,16742.49
+Brelvane Foods,12030,2026-08-25,2026-09-24,6,1-30,10661.41
+Brelvane Foods,12179,2026-09-23,2026-10-23,0,Current,9795.35
+Corvane Hotels,12144,2026-09-23,2026-10-23,0,Current,24594.22
+Corvane Hotels,11871,2026-09-30,2026-10-30,0,Current,19750.00
+Lunamere Resort,12161,2026-09-08,2026-10-08,0,Current,17881.51
+Lunamere Resort,12165,2026-09-09,2026-10-09,0,Current,23847.66
+Lunamere Resort,12163,2026-09-18,2026-10-18,0,Current,23684.47
+Lunamere Resort,12170,2026-09-18,2026-10-18,0,Current,22014.77
+Lunamere Resort,11872,2026-09-30,2026-10-30,0,Current,22400.00
+Ostrelle Clinics,12176,2026-09-08,2026-10-08,0,Current,25821.20
+Ostrelle Clinics,12164,2026-09-17,2026-10-17,0,Current,21078.04
+Pellavo Property Management,12167,2026-09-08,2026-10-08,0,Current,13538.11
+Pellavo Property Management,12168,2026-09-09,2026-10-09,0,Current,20477.06
+Pellavo Property Management,12156,2026-09-17,2026-10-17,0,Current,26498.64
+Pellavo Property Management,12174,2026-09-23,2026-10-23,0,Current,11210.61
+Quillane Office Parks,12041,2026-08-28,2026-09-27,3,1-30,21657.37
+Quillane Office Parks,12157,2026-09-09,2026-10-09,0,Current,21347.98
+Quillane Office Parks,12153,2026-09-23,2026-10-23,0,Current,26864.59
+Red Butte Hotel and Spa,12148,2026-09-11,2026-10-11,0,Current,18547.76
+Red Butte Hotel and Spa,12162,2026-09-22,2026-10-22,0,Current,12406.56
+Red Butte Hotel and Spa,12160,2026-09-23,2026-10-23,0,Current,14594.95
+Red Butte Hotel and Spa,12171,2026-09-25,2026-10-25,0,Current,12563.24
+Saguaro Fitness Clubs,12033,2026-08-26,2026-09-25,5,1-30,12896.75
+Saguaro Fitness Clubs,12177,2026-09-10,2026-10-10,0,Current,23000.47
+Saguaro Fitness Clubs,12151,2026-09-14,2026-10-14,0,Current,18463.68
+Saguaro Fitness Clubs,12152,2026-09-24,2026-10-24,0,Current,16538.51
+Saguaro Fitness Clubs,12145,2026-09-25,2026-10-25,0,Current,19057.83
+Tarvella Market,12146,2026-09-01,2026-10-01,0,Current,24226.78
+Tarvella Market,12155,2026-09-04,2026-10-04,0,Current,23393.83
+Tarvella Market,12150,2026-09-16,2026-10-16,0,Current,14981.06
+Tarvella Market,12178,2026-09-18,2026-10-18,0,Current,27751.29
+Tarvella Market,12159,2026-09-28,2026-10-28,0,Current,16118.43
+Veldane Resorts Purchasing,12015,2026-08-26,2026-09-25,5,1-30,16300.71
+Veldane Resorts Purchasing,12175,2026-09-11,2026-10-11,0,Current,13269.10
+Veldane Resorts Purchasing,12154,2026-09-15,2026-10-15,0,Current,17026.24
+Veltrane Medical Supply,11790,2026-09-02,2026-09-02,28,1-30,12000.00
+Veltrane Medical Supply,12172,2026-09-21,2026-10-21,0,Current,14550.42
+Veltrane Medical Supply,12166,2026-09-24,2026-10-24,0,Current,24898.59
+Wexmoor Senior Living,12173,2026-09-16,2026-10-16,0,Current,12683.35
+Veldane Resorts Purchasing,UNAPPLIED,2026-09-24,,0,Unapplied,-15000.00

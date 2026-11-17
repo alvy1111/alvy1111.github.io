@@ -1,0 +1,53 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Basin Hospitality Group,11145,2026-02-09,2026-03-11,0,Current,17965.61
+Basin Hospitality Group,11159,2026-02-17,2026-03-19,0,Current,15974.64
+Basin Hospitality Group,11135,2026-02-23,2026-03-25,0,Current,19258.19
+Brelvane Foods,11040,2026-01-29,2026-02-28,0,Current,18866.59
+Brelvane Foods,11136,2026-02-02,2026-03-04,0,Current,15291.50
+Brelvane Foods,11164,2026-02-09,2026-03-11,0,Current,17385.54
+Brelvane Foods,11168,2026-02-25,2026-03-27,0,Current,16650.78
+Corvane Hotels,11152,2026-02-04,2026-03-06,0,Current,20568.25
+Corvane Hotels,11141,2026-02-18,2026-03-20,0,Current,20908.24
+Harbor Point Restaurants,11177,2026-02-13,2026-03-15,0,Current,12326.98
+Harbor Point Restaurants,11175,2026-02-19,2026-03-21,0,Current,16756.34
+Harbor Point Restaurants,11151,2026-02-26,2026-03-28,0,Current,20169.90
+Juniper Grove Schools,11057,2026-01-28,2026-02-27,1,1-30,17406.21
+Juniper Grove Schools,11176,2026-02-06,2026-03-08,0,Current,14860.29
+Juniper Grove Schools,11150,2026-02-11,2026-03-13,0,Current,16360.45
+Juniper Grove Schools,11148,2026-02-18,2026-03-20,0,Current,13988.24
+Juniper Grove Schools,11161,2026-02-18,2026-03-20,0,Current,19406.73
+Juniper Grove Schools,11172,2026-02-20,2026-03-22,0,Current,8171.64
+Juniper Grove Schools,11155,2026-02-24,2026-03-26,0,Current,8833.59
+Lunamere Resort,11053,2026-01-20,2026-02-19,9,1-30,13189.49
+Lunamere Resort,11064,2026-01-23,2026-02-22,6,1-30,12971.40
+Lunamere Resort,11067,2026-01-23,2026-02-22,6,1-30,11318.34
+Lunamere Resort,11165,2026-02-02,2026-03-04,0,Current,17935.56
+Lunamere Resort,11156,2026-02-05,2026-03-07,0,Current,14047.87
+Lunamere Resort,11167,2026-02-19,2026-03-21,0,Current,9466.04
+Lunamere Resort,11149,2026-02-20,2026-03-22,0,Current,17562.95
+Ostrelle Clinics,11144,2026-02-04,2026-03-06,0,Current,15492.56
+Ostrelle Clinics,11171,2026-02-11,2026-03-13,0,Current,16217.32
+Ostrelle Clinics,11157,2026-02-16,2026-03-18,0,Current,17789.98
+Ostrelle Clinics,11134,2026-02-25,2026-03-27,0,Current,8713.29
+Quillane Office Parks,11054,2026-01-28,2026-02-27,1,1-30,16068.53
+Quillane Office Parks,11154,2026-02-05,2026-03-07,0,Current,8440.71
+Quillane Office Parks,11142,2026-02-18,2026-03-20,0,Current,14605.62
+Quillane Office Parks,11137,2026-02-25,2026-03-27,0,Current,9368.79
+Quillane Office Parks,11160,2026-02-26,2026-03-28,0,Current,22271.67
+Red Butte Hotel and Spa,11166,2026-02-05,2026-03-07,0,Current,14160.61
+Red Butte Hotel and Spa,11139,2026-02-11,2026-03-13,0,Current,17732.09
+Red Butte Hotel and Spa,11162,2026-02-20,2026-03-22,0,Current,8109.10
+Red Butte Hotel and Spa,11138,2026-02-23,2026-03-25,0,Current,20392.15
+Red Butte Hotel and Spa,11147,2026-02-26,2026-03-28,0,Current,10011.48
+Saguaro Fitness Clubs,11143,2026-02-05,2026-03-07,0,Current,15771.15
+Saguaro Fitness Clubs,11153,2026-02-19,2026-03-21,0,Current,11218.46
+Saguaro Fitness Clubs,11170,2026-02-24,2026-03-26,0,Current,14444.99
+Tarvella Market,11140,2026-02-05,2026-03-07,0,Current,17638.90
+Tarvella Market,11173,2026-02-17,2026-03-19,0,Current,11081.08
+Tarvella Market,11163,2026-02-19,2026-03-21,0,Current,15792.00
+Veltrane Medical Supply,11056,2026-01-21,2026-02-20,8,1-30,11887.38
+Veltrane Medical Supply,11066,2026-01-27,2026-02-26,2,1-30,17251.85
+Veltrane Medical Supply,11146,2026-02-09,2026-03-11,0,Current,18275.88
+Wexmoor Senior Living,11158,2026-02-06,2026-03-08,0,Current,8517.54
+Wexmoor Senior Living,11174,2026-02-10,2026-03-12,0,Current,16504.13
+Wexmoor Senior Living,11169,2026-02-18,2026-03-20,0,Current,16602.44

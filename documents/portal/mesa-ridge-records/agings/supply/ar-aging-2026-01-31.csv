@@ -1,0 +1,40 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Basin Hospitality Group,11062,2026-01-22,2026-02-21,0,Current,16802.02
+Basin Hospitality Group,11071,2026-01-22,2026-02-21,0,Current,12924.83
+Basin Hospitality Group,11050,2026-01-23,2026-02-22,0,Current,15123.00
+Basin Hospitality Group,11068,2026-01-23,2026-02-22,0,Current,20650.89
+Brelvane Foods,11041,2026-01-06,2026-02-05,0,Current,13617.02
+Brelvane Foods,11040,2026-01-29,2026-02-28,0,Current,18866.59
+Corvane Hotels,11043,2026-01-27,2026-02-26,0,Current,8121.84
+Corvane Hotels,11047,2026-01-27,2026-02-26,0,Current,12888.20
+Corvane Hotels,11074,2026-01-28,2026-02-27,0,Current,18782.23
+Harbor Point Restaurants,11078,2026-01-12,2026-02-11,0,Current,9264.81
+Harbor Point Restaurants,11051,2026-01-20,2026-02-19,0,Current,8067.96
+Harbor Point Restaurants,11076,2026-01-23,2026-02-22,0,Current,9103.42
+Juniper Grove Schools,11060,2026-01-07,2026-02-06,0,Current,17979.31
+Juniper Grove Schools,11055,2026-01-12,2026-02-11,0,Current,9446.73
+Juniper Grove Schools,11072,2026-01-20,2026-02-19,0,Current,16706.47
+Juniper Grove Schools,11073,2026-01-23,2026-02-22,0,Current,10322.47
+Juniper Grove Schools,11057,2026-01-28,2026-02-27,0,Current,17406.21
+Lunamere Resort,11053,2026-01-20,2026-02-19,0,Current,13189.49
+Lunamere Resort,11064,2026-01-23,2026-02-22,0,Current,12971.40
+Lunamere Resort,11067,2026-01-23,2026-02-22,0,Current,11318.34
+Lunamere Resort,11059,2026-01-26,2026-02-25,0,Current,16122.14
+Ostrelle Clinics,11061,2026-01-05,2026-02-04,0,Current,19517.26
+Ostrelle Clinics,11069,2026-01-19,2026-02-18,0,Current,14481.99
+Ostrelle Clinics,11079,2026-01-23,2026-02-22,0,Current,11369.17
+Pellavo Property Management,11075,2026-01-07,2026-02-06,0,Current,20276.43
+Pellavo Property Management,11065,2026-01-09,2026-02-08,0,Current,18689.92
+Quillane Office Parks,11054,2026-01-28,2026-02-27,0,Current,16068.53
+Red Butte Hotel and Spa,11058,2026-01-01,2026-01-31,0,Current,18005.79
+Red Butte Hotel and Spa,11048,2026-01-12,2026-02-11,0,Current,21490.85
+Red Butte Hotel and Spa,11052,2026-01-15,2026-02-14,0,Current,8704.42
+Red Butte Hotel and Spa,11077,2026-01-19,2026-02-18,0,Current,8570.28
+Saguaro Fitness Clubs,11049,2026-01-09,2026-02-08,0,Current,18626.96
+Saguaro Fitness Clubs,11063,2026-01-16,2026-02-15,0,Current,18022.00
+Saguaro Fitness Clubs,11044,2026-01-19,2026-02-18,0,Current,21223.83
+Tarvella Market,11070,2026-01-27,2026-02-26,0,Current,15451.65
+Veldane Resorts Purchasing,11045,2026-01-02,2026-02-01,0,Current,11555.88
+Veldane Resorts Purchasing,11042,2026-01-29,2026-02-28,0,Current,21402.91
+Veltrane Medical Supply,11056,2026-01-21,2026-02-20,0,Current,11887.38
+Veltrane Medical Supply,11066,2026-01-27,2026-02-26,0,Current,17251.85

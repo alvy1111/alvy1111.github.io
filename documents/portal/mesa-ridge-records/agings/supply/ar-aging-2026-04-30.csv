@@ -1,0 +1,44 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Basin Hospitality Group,11427,2026-04-07,2026-05-07,0,Current,23537.92
+Basin Hospitality Group,11444,2026-04-09,2026-05-09,0,Current,18390.51
+Basin Hospitality Group,11433,2026-04-10,2026-05-10,0,Current,19185.67
+Basin Hospitality Group,11445,2026-04-22,2026-05-22,0,Current,18574.30
+Basin Hospitality Group,11440,2026-04-24,2026-05-24,0,Current,21729.66
+Brelvane Foods,11300,2026-03-24,2026-04-23,7,1-30,14344.32
+Corvane Hotels,11442,2026-04-09,2026-05-09,0,Current,14941.95
+Harbor Point Restaurants,11457,2026-04-22,2026-05-22,0,Current,13509.50
+Harbor Point Restaurants,11463,2026-04-22,2026-05-22,0,Current,9636.14
+Harbor Point Restaurants,11443,2026-04-28,2026-05-28,0,Current,24623.89
+Lunamere Resort,11439,2026-04-10,2026-05-10,0,Current,23155.96
+Lunamere Resort,11461,2026-04-15,2026-05-15,0,Current,22843.36
+Ostrelle Clinics,11459,2026-04-10,2026-05-10,0,Current,17753.77
+Ostrelle Clinics,11462,2026-04-10,2026-05-10,0,Current,9693.41
+Ostrelle Clinics,11435,2026-04-17,2026-05-17,0,Current,10343.91
+Ostrelle Clinics,11436,2026-04-17,2026-05-17,0,Current,12789.94
+Pellavo Property Management,11430,2026-04-03,2026-05-03,0,Current,18442.91
+Pellavo Property Management,11466,2026-04-13,2026-05-13,0,Current,14551.63
+Pellavo Property Management,11448,2026-04-17,2026-05-17,0,Current,13249.86
+Quillane Office Parks,11362,2026-03-01,2026-03-01,60,31-60,6000.00
+Quillane Office Parks,11273,2026-03-25,2026-04-24,6,1-30,19127.69
+Quillane Office Parks,11298,2026-03-30,2026-04-29,1,1-30,11140.02
+Quillane Office Parks,11460,2026-04-08,2026-05-08,0,Current,16336.07
+Quillane Office Parks,11452,2026-04-14,2026-05-14,0,Current,20789.66
+Quillane Office Parks,11429,2026-04-24,2026-05-24,0,Current,16433.97
+Red Butte Hotel and Spa,11437,2026-04-03,2026-05-03,0,Current,24216.52
+Red Butte Hotel and Spa,11458,2026-04-06,2026-05-06,0,Current,16744.40
+Red Butte Hotel and Spa,11450,2026-04-07,2026-05-07,0,Current,12824.95
+Red Butte Hotel and Spa,11434,2026-04-10,2026-05-10,0,Current,21985.73
+Red Butte Hotel and Spa,11456,2026-04-21,2026-05-21,0,Current,16084.37
+Red Butte Hotel and Spa,11428,2026-04-28,2026-05-28,0,Current,9381.28
+Saguaro Fitness Clubs,11432,2026-04-27,2026-05-27,0,Current,20914.87
+Saguaro Fitness Clubs,11441,2026-04-27,2026-05-27,0,Current,13601.46
+Tarvella Market,11431,2026-04-23,2026-05-23,0,Current,16936.75
+Veldane Resorts Purchasing,11275,2026-03-23,2026-04-22,8,1-30,22701.80
+Veldane Resorts Purchasing,11447,2026-04-02,2026-05-02,0,Current,20746.97
+Veldane Resorts Purchasing,11454,2026-04-02,2026-05-02,0,Current,22646.12
+Veldane Resorts Purchasing,11449,2026-04-14,2026-05-14,0,Current,21174.70
+Veldane Resorts Purchasing,11451,2026-04-29,2026-05-29,0,Current,19261.30
+Veltrane Medical Supply,11446,2026-04-07,2026-05-07,0,Current,21898.95
+Wexmoor Senior Living,11294,2026-03-23,2026-04-22,8,1-30,9627.13
+Wexmoor Senior Living,11455,2026-04-06,2026-05-06,0,Current,8796.44
+Wexmoor Senior Living,11464,2026-04-10,2026-05-10,0,Current,15480.77

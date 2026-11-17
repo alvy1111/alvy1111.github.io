@@ -1,0 +1,5 @@
+Account,Account Name,Dr/Cr,Debit,Credit,Memo
+65000,Salaries and Wages,Dr,61256.15,,"Gross wages, pay period 05/17/2026-05/30/2026"
+65100,Payroll Taxes,Dr,5151.64,,Employer payroll taxes
+60500,Bank and Processing Fees,Dr,185.00,,Payroll processing fee
+10200,Payroll Checking 8820,Cr,,66592.79,Funding debit 06/05/2026

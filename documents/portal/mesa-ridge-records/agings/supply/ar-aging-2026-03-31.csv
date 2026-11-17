@@ -1,0 +1,38 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Brelvane Foods,11168,2026-02-25,2026-03-27,4,1-30,16650.78
+Brelvane Foods,11272,2026-03-09,2026-04-08,0,Current,18853.95
+Brelvane Foods,11291,2026-03-09,2026-04-08,0,Current,24110.66
+Brelvane Foods,11281,2026-03-20,2026-04-19,0,Current,24302.49
+Brelvane Foods,11300,2026-03-24,2026-04-23,0,Current,14344.32
+Brelvane Foods,11301,2026-03-26,2026-04-25,0,Current,16974.31
+Corvane Hotels,11284,2026-03-04,2026-04-03,0,Current,21167.84
+Corvane Hotels,11285,2026-03-10,2026-04-09,0,Current,13454.10
+Corvane Hotels,11297,2026-03-17,2026-04-16,0,Current,17673.07
+Juniper Grove Schools,11161,2026-02-18,2026-03-20,11,1-30,19406.73
+Juniper Grove Schools,11304,2026-03-06,2026-04-05,0,Current,19729.51
+Juniper Grove Schools,11271,2026-03-17,2026-04-16,0,Current,18022.56
+Lunamere Resort,11283,2026-03-03,2026-04-02,0,Current,22830.92
+Lunamere Resort,11277,2026-03-10,2026-04-09,0,Current,13131.07
+Lunamere Resort,11289,2026-03-19,2026-04-18,0,Current,13097.61
+Ostrelle Clinics,11290,2026-03-10,2026-04-09,0,Current,14614.89
+Ostrelle Clinics,11274,2026-03-11,2026-04-10,0,Current,16425.68
+Ostrelle Clinics,11278,2026-03-12,2026-04-11,0,Current,25164.22
+Ostrelle Clinics,11296,2026-03-17,2026-04-16,0,Current,15535.75
+Ostrelle Clinics,11302,2026-03-23,2026-04-22,0,Current,18536.31
+Pellavo Property Management,11276,2026-03-02,2026-04-01,0,Current,21726.66
+Quillane Office Parks,11362,2026-03-01,2026-03-01,30,1-30,6000.00
+Quillane Office Parks,11273,2026-03-25,2026-04-24,0,Current,19127.69
+Quillane Office Parks,11298,2026-03-30,2026-04-29,0,Current,11140.02
+Saguaro Fitness Clubs,11170,2026-02-24,2026-03-26,5,1-30,14444.99
+Veldane Resorts Purchasing,11292,2026-03-09,2026-04-08,0,Current,21167.42
+Veldane Resorts Purchasing,11306,2026-03-20,2026-04-19,0,Current,24112.54
+Veldane Resorts Purchasing,11275,2026-03-23,2026-04-22,0,Current,22701.80
+Veldane Resorts Purchasing,11293,2026-03-24,2026-04-23,0,Current,23842.51
+Veltrane Medical Supply,11279,2026-03-03,2026-04-02,0,Current,19209.57
+Veltrane Medical Supply,11303,2026-03-12,2026-04-11,0,Current,9673.36
+Veltrane Medical Supply,11282,2026-03-23,2026-04-22,0,Current,13692.77
+Veltrane Medical Supply,11299,2026-03-24,2026-04-23,0,Current,20192.37
+Wexmoor Senior Living,11295,2026-03-16,2026-04-15,0,Current,23734.87
+Wexmoor Senior Living,11280,2026-03-23,2026-04-22,0,Current,26397.20
+Wexmoor Senior Living,11294,2026-03-23,2026-04-22,0,Current,9627.13
+Wexmoor Senior Living,11305,2026-03-27,2026-04-26,0,Current,9668.67

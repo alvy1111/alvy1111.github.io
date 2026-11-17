@@ -1,0 +1,1152 @@
+[
+  {
+    "file": "home-1440.png",
+    "route": "/home",
+    "title": "Home",
+    "caption": "The signed-in landing page: what needs attention across clients.",
+    "width": 1440,
+    "theme": "light",
+    "page": "home",
+    "status": 200
+  },
+  {
+    "file": "home-1440-dark.png",
+    "route": "/home",
+    "title": "Home",
+    "caption": "The signed-in landing page: what needs attention across clients.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "home",
+    "status": 200
+  },
+  {
+    "file": "home-390.png",
+    "route": "/home",
+    "title": "Home",
+    "caption": "The signed-in landing page: what needs attention across clients.",
+    "width": 390,
+    "theme": "light",
+    "page": "home",
+    "status": 200
+  },
+  {
+    "file": "desk-1440.png",
+    "route": "/desk",
+    "title": "Desk",
+    "caption": "Every client and month on one list, with close status.",
+    "width": 1440,
+    "theme": "light",
+    "page": "desk",
+    "status": 200
+  },
+  {
+    "file": "desk-1440-dark.png",
+    "route": "/desk",
+    "title": "Desk",
+    "caption": "Every client and month on one list, with close status.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "desk",
+    "status": 200
+  },
+  {
+    "file": "desk-390.png",
+    "route": "/desk",
+    "title": "Desk",
+    "caption": "Every client and month on one list, with close status.",
+    "width": 390,
+    "theme": "light",
+    "page": "desk",
+    "status": 200
+  },
+  {
+    "file": "client-1440.png",
+    "route": "/desk/mesa_ridge_supply",
+    "title": "Client overview",
+    "caption": "One client's months, status and next actions.",
+    "width": 1440,
+    "theme": "light",
+    "page": "client",
+    "status": 200
+  },
+  {
+    "file": "client-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply",
+    "title": "Client overview",
+    "caption": "One client's months, status and next actions.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "client",
+    "status": 200
+  },
+  {
+    "file": "client-390.png",
+    "route": "/desk/mesa_ridge_supply",
+    "title": "Client overview",
+    "caption": "One client's months, status and next actions.",
+    "width": 390,
+    "theme": "light",
+    "page": "client",
+    "status": 200
+  },
+  {
+    "file": "month-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09",
+    "title": "Close checklist home",
+    "caption": "The month's home: the close checklist with every step, its owner and whether it is done.",
+    "width": 1440,
+    "theme": "light",
+    "page": "month",
+    "status": 200
+  },
+  {
+    "file": "month-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09",
+    "title": "Close checklist home",
+    "caption": "The month's home: the close checklist with every step, its owner and whether it is done.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "month",
+    "status": 200
+  },
+  {
+    "file": "month-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09",
+    "title": "Close checklist home",
+    "caption": "The month's home: the close checklist with every step, its owner and whether it is done.",
+    "width": 390,
+    "theme": "light",
+    "page": "month",
+    "status": 200
+  },
+  {
+    "file": null,
+    "title": "close",
+    "page": "close",
+    "width": null,
+    "theme": null,
+    "skip": "Same page as the month home (the close checklist); shot once as 'month'"
+  },
+  {
+    "file": null,
+    "title": "bank",
+    "page": "bank",
+    "width": null,
+    "theme": null,
+    "skip": "Bank 'For review' queue holds 0 doubtful lines on the demo, so the page is empty by nature"
+  },
+  {
+    "file": "bank-coded-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/banking?view=categorized",
+    "title": "Bank: categorized",
+    "caption": "Bank lines already coded to accounts, with the rule or person behind each.",
+    "width": 1440,
+    "theme": "light",
+    "page": "bank-coded",
+    "status": 200
+  },
+  {
+    "file": "bank-coded-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/banking?view=categorized",
+    "title": "Bank: categorized",
+    "caption": "Bank lines already coded to accounts, with the rule or person behind each.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "bank-coded",
+    "status": 200
+  },
+  {
+    "file": "bank-coded-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/banking?view=categorized",
+    "title": "Bank: categorized",
+    "caption": "Bank lines already coded to accounts, with the rule or person behind each.",
+    "width": 390,
+    "theme": "light",
+    "page": "bank-coded",
+    "status": 200
+  },
+  {
+    "file": "bank-accounts-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/banking?view=accounts",
+    "title": "Bank: by account",
+    "caption": "Bank lines grouped by account with balances.",
+    "width": 1440,
+    "theme": "light",
+    "page": "bank-accounts",
+    "status": 200
+  },
+  {
+    "file": "bank-accounts-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/banking?view=accounts",
+    "title": "Bank: by account",
+    "caption": "Bank lines grouped by account with balances.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "bank-accounts",
+    "status": 200
+  },
+  {
+    "file": "bank-accounts-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/banking?view=accounts",
+    "title": "Bank: by account",
+    "caption": "Bank lines grouped by account with balances.",
+    "width": 390,
+    "theme": "light",
+    "page": "bank-accounts",
+    "status": 200
+  },
+  {
+    "file": "transactions-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/transactions",
+    "title": "Transactions",
+    "caption": "Every transaction in the month, searchable, with its coding.",
+    "width": 1440,
+    "theme": "light",
+    "page": "transactions",
+    "status": 200
+  },
+  {
+    "file": "transactions-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/transactions",
+    "title": "Transactions",
+    "caption": "Every transaction in the month, searchable, with its coding.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "transactions",
+    "status": 200
+  },
+  {
+    "file": "transactions-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/transactions",
+    "title": "Transactions",
+    "caption": "Every transaction in the month, searchable, with its coding.",
+    "width": 390,
+    "theme": "light",
+    "page": "transactions",
+    "status": 200
+  },
+  {
+    "file": "recs-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs",
+    "title": "Reconciliations",
+    "caption": "The rec list: books vs support, difference and sign-off for each account.",
+    "width": 1440,
+    "theme": "light",
+    "page": "recs",
+    "status": 200
+  },
+  {
+    "file": "recs-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs",
+    "title": "Reconciliations",
+    "caption": "The rec list: books vs support, difference and sign-off for each account.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "recs",
+    "status": 200
+  },
+  {
+    "file": "recs-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs",
+    "title": "Reconciliations",
+    "caption": "The rec list: books vs support, difference and sign-off for each account.",
+    "width": 390,
+    "theme": "light",
+    "page": "recs",
+    "status": 200
+  },
+  {
+    "file": "jes-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/jes",
+    "title": "Journal entries",
+    "caption": "Journal entries for the month, drafts apart from posted.",
+    "width": 1440,
+    "theme": "light",
+    "page": "jes",
+    "status": 200
+  },
+  {
+    "file": "jes-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/jes",
+    "title": "Journal entries",
+    "caption": "Journal entries for the month, drafts apart from posted.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "jes",
+    "status": 200
+  },
+  {
+    "file": "jes-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/jes",
+    "title": "Journal entries",
+    "caption": "Journal entries for the month, drafts apart from posted.",
+    "width": 390,
+    "theme": "light",
+    "page": "jes",
+    "status": 200
+  },
+  {
+    "file": "entries-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/entries",
+    "title": "Draft entries",
+    "caption": "Entries the system drafted for a person to approve.",
+    "width": 1440,
+    "theme": "light",
+    "page": "entries",
+    "status": 200
+  },
+  {
+    "file": "entries-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/entries",
+    "title": "Draft entries",
+    "caption": "Entries the system drafted for a person to approve.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "entries",
+    "status": 200
+  },
+  {
+    "file": "entries-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/entries",
+    "title": "Draft entries",
+    "caption": "Entries the system drafted for a person to approve.",
+    "width": 390,
+    "theme": "light",
+    "page": "entries",
+    "status": 200
+  },
+  {
+    "file": "entry-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/entries/JE-202609-001",
+    "title": "Draft journal voucher",
+    "caption": "One draft journal voucher with its lines and support, waiting for approval.",
+    "width": 1440,
+    "theme": "light",
+    "page": "entry",
+    "status": 200
+  },
+  {
+    "file": "entry-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/entries/JE-202609-001",
+    "title": "Draft journal voucher",
+    "caption": "One draft journal voucher with its lines and support, waiting for approval.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "entry",
+    "status": 200
+  },
+  {
+    "file": "entry-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/entries/JE-202609-001",
+    "title": "Draft journal voucher",
+    "caption": "One draft journal voucher with its lines and support, waiting for approval.",
+    "width": 390,
+    "theme": "light",
+    "page": "entry",
+    "status": 200
+  },
+  {
+    "file": "findings-1440.png",
+    "route": "/review/mesa_ridge_supply/2026-09",
+    "title": "Findings",
+    "caption": "Review findings raised for the month, with severity.",
+    "width": 1440,
+    "theme": "light",
+    "page": "findings",
+    "status": 200
+  },
+  {
+    "file": "findings-1440-dark.png",
+    "route": "/review/mesa_ridge_supply/2026-09",
+    "title": "Findings",
+    "caption": "Review findings raised for the month, with severity.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "findings",
+    "status": 200
+  },
+  {
+    "file": "findings-390.png",
+    "route": "/review/mesa_ridge_supply/2026-09",
+    "title": "Findings",
+    "caption": "Review findings raised for the month, with severity.",
+    "width": 390,
+    "theme": "light",
+    "page": "findings",
+    "status": 200
+  },
+  {
+    "file": "reports-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports",
+    "title": "Reports",
+    "caption": "Index of the financial reports for the month.",
+    "width": 1440,
+    "theme": "light",
+    "page": "reports",
+    "status": 200
+  },
+  {
+    "file": "reports-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports",
+    "title": "Reports",
+    "caption": "Index of the financial reports for the month.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "reports",
+    "status": 200
+  },
+  {
+    "file": "reports-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports",
+    "title": "Reports",
+    "caption": "Index of the financial reports for the month.",
+    "width": 390,
+    "theme": "light",
+    "page": "reports",
+    "status": 200
+  },
+  {
+    "file": "report-pl-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/pl",
+    "title": "Profit and loss",
+    "caption": "Income statement for the month.",
+    "width": 1440,
+    "theme": "light",
+    "page": "report-pl",
+    "status": 200
+  },
+  {
+    "file": "report-pl-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/pl",
+    "title": "Profit and loss",
+    "caption": "Income statement for the month.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "report-pl",
+    "status": 200
+  },
+  {
+    "file": "report-pl-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/pl",
+    "title": "Profit and loss",
+    "caption": "Income statement for the month.",
+    "width": 390,
+    "theme": "light",
+    "page": "report-pl",
+    "status": 200
+  },
+  {
+    "file": "report-bs-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/bs",
+    "title": "Balance sheet",
+    "caption": "Balance sheet at month end.",
+    "width": 1440,
+    "theme": "light",
+    "page": "report-bs",
+    "status": 200
+  },
+  {
+    "file": "report-bs-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/bs",
+    "title": "Balance sheet",
+    "caption": "Balance sheet at month end.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "report-bs",
+    "status": 200
+  },
+  {
+    "file": "report-bs-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/bs",
+    "title": "Balance sheet",
+    "caption": "Balance sheet at month end.",
+    "width": 390,
+    "theme": "light",
+    "page": "report-bs",
+    "status": 200
+  },
+  {
+    "file": "report-cash-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/cash",
+    "title": "Cash",
+    "caption": "Cash position and movement for the month.",
+    "width": 1440,
+    "theme": "light",
+    "page": "report-cash",
+    "status": 200
+  },
+  {
+    "file": "report-cash-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/cash",
+    "title": "Cash",
+    "caption": "Cash position and movement for the month.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "report-cash",
+    "status": 200
+  },
+  {
+    "file": "report-cash-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/reports/cash",
+    "title": "Cash",
+    "caption": "Cash position and movement for the month.",
+    "width": 390,
+    "theme": "light",
+    "page": "report-cash",
+    "status": 200
+  },
+  {
+    "file": "flux-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/monthend?tab=flux",
+    "title": "Flux review",
+    "caption": "Month-over-month variances with a written explanation per line.",
+    "width": 1440,
+    "theme": "light",
+    "page": "flux",
+    "status": 200
+  },
+  {
+    "file": "flux-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/monthend?tab=flux",
+    "title": "Flux review",
+    "caption": "Month-over-month variances with a written explanation per line.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "flux",
+    "status": 200
+  },
+  {
+    "file": "flux-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/monthend?tab=flux",
+    "title": "Flux review",
+    "caption": "Month-over-month variances with a written explanation per line.",
+    "width": 390,
+    "theme": "light",
+    "page": "flux",
+    "status": 200
+  },
+  {
+    "file": "evidence-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/evidence",
+    "title": "Evidence",
+    "caption": "The supporting documents behind each figure in the month.",
+    "width": 1440,
+    "theme": "light",
+    "page": "evidence",
+    "status": 200
+  },
+  {
+    "file": "evidence-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/evidence",
+    "title": "Evidence",
+    "caption": "The supporting documents behind each figure in the month.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "evidence",
+    "status": 200
+  },
+  {
+    "file": "evidence-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/evidence",
+    "title": "Evidence",
+    "caption": "The supporting documents behind each figure in the month.",
+    "width": 390,
+    "theme": "light",
+    "page": "evidence",
+    "status": 200
+  },
+  {
+    "file": "requests-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/requests",
+    "title": "Requests",
+    "caption": "Document requests to the client and their status.",
+    "width": 1440,
+    "theme": "light",
+    "page": "requests",
+    "status": 200
+  },
+  {
+    "file": "requests-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/requests",
+    "title": "Requests",
+    "caption": "Document requests to the client and their status.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "requests",
+    "status": 200
+  },
+  {
+    "file": "requests-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/requests",
+    "title": "Requests",
+    "caption": "Document requests to the client and their status.",
+    "width": 390,
+    "theme": "light",
+    "page": "requests",
+    "status": 200
+  },
+  {
+    "file": "bygl-1440.png",
+    "route": "/desk/mesa_ridge_supply/bygl",
+    "title": "By GL",
+    "caption": "Matrix of every GL account by month, with books balance and rec status.",
+    "width": 1440,
+    "theme": "light",
+    "page": "bygl",
+    "status": 200
+  },
+  {
+    "file": "bygl-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/bygl",
+    "title": "By GL",
+    "caption": "Matrix of every GL account by month, with books balance and rec status.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "bygl",
+    "status": 200
+  },
+  {
+    "file": "bygl-390.png",
+    "route": "/desk/mesa_ridge_supply/bygl",
+    "title": "By GL",
+    "caption": "Matrix of every GL account by month, with books balance and rec status.",
+    "width": 390,
+    "theme": "light",
+    "page": "bygl",
+    "status": 200
+  },
+  {
+    "file": "bygl-cell-1440.png",
+    "route": "/desk/mesa_ridge_supply/bygl?gl=Assets%3A10100-Operating-Checking-4417&m=2026-09",
+    "title": "By GL: cell detail",
+    "caption": "One balance-sheet account and month opened: activity, draft entries and the rec.",
+    "width": 1440,
+    "theme": "light",
+    "page": "bygl-cell",
+    "status": 200
+  },
+  {
+    "file": "bygl-cell-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/bygl?gl=Assets%3A10100-Operating-Checking-4417&m=2026-09",
+    "title": "By GL: cell detail",
+    "caption": "One balance-sheet account and month opened: activity, draft entries and the rec.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "bygl-cell",
+    "status": 200
+  },
+  {
+    "file": "bygl-cell-390.png",
+    "route": "/desk/mesa_ridge_supply/bygl?gl=Assets%3A10100-Operating-Checking-4417&m=2026-09",
+    "title": "By GL: cell detail",
+    "caption": "One balance-sheet account and month opened: activity, draft entries and the rec.",
+    "width": 390,
+    "theme": "light",
+    "page": "bygl-cell",
+    "status": 200
+  },
+  {
+    "file": "close-binder-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/close-binder",
+    "title": "Close binder",
+    "caption": "The month's binder on one screen: statements, recs, entries and sign-offs.",
+    "width": 1440,
+    "theme": "light",
+    "page": "close-binder",
+    "status": 200
+  },
+  {
+    "file": "close-binder-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/close-binder",
+    "title": "Close binder",
+    "caption": "The month's binder on one screen: statements, recs, entries and sign-offs.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "close-binder",
+    "status": 200
+  },
+  {
+    "file": "close-binder-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/close-binder",
+    "title": "Close binder",
+    "caption": "The month's binder on one screen: statements, recs, entries and sign-offs.",
+    "width": 390,
+    "theme": "light",
+    "page": "close-binder",
+    "status": 200
+  },
+  {
+    "file": "rec-tied-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs?acct=2",
+    "title": "Rec workpaper: tied",
+    "caption": "A reconciliation that ties to outside support with zero difference.",
+    "width": 1440,
+    "theme": "light",
+    "page": "rec-tied",
+    "status": 200
+  },
+  {
+    "file": "rec-tied-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs?acct=2",
+    "title": "Rec workpaper: tied",
+    "caption": "A reconciliation that ties to outside support with zero difference.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "rec-tied",
+    "status": 200
+  },
+  {
+    "file": "rec-tied-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs?acct=2",
+    "title": "Rec workpaper: tied",
+    "caption": "A reconciliation that ties to outside support with zero difference.",
+    "width": 390,
+    "theme": "light",
+    "page": "rec-tied",
+    "status": 200
+  },
+  {
+    "file": "rec-open-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs?acct=1",
+    "title": "Rec workpaper: open",
+    "caption": "A reconciliation with a difference and open reconciling items.",
+    "width": 1440,
+    "theme": "light",
+    "page": "rec-open",
+    "status": 200
+  },
+  {
+    "file": "rec-open-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs?acct=1",
+    "title": "Rec workpaper: open",
+    "caption": "A reconciliation with a difference and open reconciling items.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "rec-open",
+    "status": 200
+  },
+  {
+    "file": "rec-open-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/recs?acct=1",
+    "title": "Rec workpaper: open",
+    "caption": "A reconciliation with a difference and open reconciling items.",
+    "width": 390,
+    "theme": "light",
+    "page": "rec-open",
+    "status": 200
+  },
+  {
+    "file": "documents-1440.png",
+    "route": "/documents",
+    "title": "Documents",
+    "caption": "Source documents received and filed.",
+    "width": 1440,
+    "theme": "light",
+    "page": "documents",
+    "status": 200
+  },
+  {
+    "file": "documents-1440-dark.png",
+    "route": "/documents",
+    "title": "Documents",
+    "caption": "Source documents received and filed.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "documents",
+    "status": 200
+  },
+  {
+    "file": "documents-390.png",
+    "route": "/documents",
+    "title": "Documents",
+    "caption": "Source documents received and filed.",
+    "width": 390,
+    "theme": "light",
+    "page": "documents",
+    "status": 200
+  },
+  {
+    "file": null,
+    "title": "files",
+    "page": "files",
+    "width": null,
+    "theme": null,
+    "skip": "Files is empty before approval: nothing is filed until a person approves the month"
+  },
+  {
+    "file": "intake-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/intake",
+    "title": "Intake",
+    "caption": "Documents received for the month and how each was read.",
+    "width": 1440,
+    "theme": "light",
+    "page": "intake",
+    "status": 200
+  },
+  {
+    "file": "intake-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/intake",
+    "title": "Intake",
+    "caption": "Documents received for the month and how each was read.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "intake",
+    "status": 200
+  },
+  {
+    "file": "intake-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/intake",
+    "title": "Intake",
+    "caption": "Documents received for the month and how each was read.",
+    "width": 390,
+    "theme": "light",
+    "page": "intake",
+    "status": 200
+  },
+  {
+    "file": "questions-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/questions",
+    "title": "Questions",
+    "caption": "Open questions for the client.",
+    "width": 1440,
+    "theme": "light",
+    "page": "questions",
+    "status": 200
+  },
+  {
+    "file": "questions-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/questions",
+    "title": "Questions",
+    "caption": "Open questions for the client.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "questions",
+    "status": 200
+  },
+  {
+    "file": "questions-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/questions",
+    "title": "Questions",
+    "caption": "Open questions for the client.",
+    "width": 390,
+    "theme": "light",
+    "page": "questions",
+    "status": 200
+  },
+  {
+    "file": "checks-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/checks",
+    "title": "Checks",
+    "caption": "Automated checks on the month with pass or attention flags.",
+    "width": 1440,
+    "theme": "light",
+    "page": "checks",
+    "status": 200
+  },
+  {
+    "file": "checks-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/checks",
+    "title": "Checks",
+    "caption": "Automated checks on the month with pass or attention flags.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "checks",
+    "status": 200
+  },
+  {
+    "file": "checks-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/checks",
+    "title": "Checks",
+    "caption": "Automated checks on the month with pass or attention flags.",
+    "width": 390,
+    "theme": "light",
+    "page": "checks",
+    "status": 200
+  },
+  {
+    "file": "board-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/board",
+    "title": "Board",
+    "caption": "Work board: what is waiting on whom.",
+    "width": 1440,
+    "theme": "light",
+    "page": "board",
+    "status": 200
+  },
+  {
+    "file": "board-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/board",
+    "title": "Board",
+    "caption": "Work board: what is waiting on whom.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "board",
+    "status": 200
+  },
+  {
+    "file": "board-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/board",
+    "title": "Board",
+    "caption": "Work board: what is waiting on whom.",
+    "width": 390,
+    "theme": "light",
+    "page": "board",
+    "status": 200
+  },
+  {
+    "file": "checklist-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/checklist",
+    "title": "Checklist",
+    "caption": "The month's checklist.",
+    "width": 1440,
+    "theme": "light",
+    "page": "checklist",
+    "status": 200
+  },
+  {
+    "file": "checklist-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/checklist",
+    "title": "Checklist",
+    "caption": "The month's checklist.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "checklist",
+    "status": 200
+  },
+  {
+    "file": "checklist-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/checklist",
+    "title": "Checklist",
+    "caption": "The month's checklist.",
+    "width": 390,
+    "theme": "light",
+    "page": "checklist",
+    "status": 200
+  },
+  {
+    "file": "tieout-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/tieout",
+    "title": "Tie-out",
+    "caption": "Statement balances tied back to the books.",
+    "width": 1440,
+    "theme": "light",
+    "page": "tieout",
+    "status": 200
+  },
+  {
+    "file": "tieout-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/tieout",
+    "title": "Tie-out",
+    "caption": "Statement balances tied back to the books.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "tieout",
+    "status": 200
+  },
+  {
+    "file": "tieout-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/tieout",
+    "title": "Tie-out",
+    "caption": "Statement balances tied back to the books.",
+    "width": 390,
+    "theme": "light",
+    "page": "tieout",
+    "status": 200
+  },
+  {
+    "file": "statements-1440.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/statements",
+    "title": "Statements",
+    "caption": "The financial statements for the month.",
+    "width": 1440,
+    "theme": "light",
+    "page": "statements",
+    "status": 200
+  },
+  {
+    "file": "statements-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/statements",
+    "title": "Statements",
+    "caption": "The financial statements for the month.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "statements",
+    "status": 200
+  },
+  {
+    "file": "statements-390.png",
+    "route": "/desk/mesa_ridge_supply/2026-09/statements",
+    "title": "Statements",
+    "caption": "The financial statements for the month.",
+    "width": 390,
+    "theme": "light",
+    "page": "statements",
+    "status": 200
+  },
+  {
+    "file": null,
+    "title": "schedules",
+    "page": "schedules",
+    "width": null,
+    "theme": null,
+    "skip": "Schedules are empty before approval: they are written when the month is approved"
+  },
+  {
+    "file": "rules-1440.png",
+    "route": "/desk/mesa_ridge_supply/rules",
+    "title": "Rules",
+    "caption": "Coding rules the system has learned for this client.",
+    "width": 1440,
+    "theme": "light",
+    "page": "rules",
+    "status": 200
+  },
+  {
+    "file": "rules-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/rules",
+    "title": "Rules",
+    "caption": "Coding rules the system has learned for this client.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "rules",
+    "status": 200
+  },
+  {
+    "file": "rules-390.png",
+    "route": "/desk/mesa_ridge_supply/rules",
+    "title": "Rules",
+    "caption": "Coding rules the system has learned for this client.",
+    "width": 390,
+    "theme": "light",
+    "page": "rules",
+    "status": 200
+  },
+  {
+    "file": "books-1440.png",
+    "route": "/desk/mesa_ridge_supply/books",
+    "title": "Books",
+    "caption": "The client's books, account by account.",
+    "width": 1440,
+    "theme": "light",
+    "page": "books",
+    "status": 200
+  },
+  {
+    "file": "books-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/books",
+    "title": "Books",
+    "caption": "The client's books, account by account.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "books",
+    "status": 200
+  },
+  {
+    "file": "books-390.png",
+    "route": "/desk/mesa_ridge_supply/books",
+    "title": "Books",
+    "caption": "The client's books, account by account.",
+    "width": 390,
+    "theme": "light",
+    "page": "books",
+    "status": 200
+  },
+  {
+    "file": "activity-1440.png",
+    "route": "/desk/mesa_ridge_supply/activity",
+    "title": "Activity",
+    "caption": "Audit trail of who did what and when.",
+    "width": 1440,
+    "theme": "light",
+    "page": "activity",
+    "status": 200
+  },
+  {
+    "file": "activity-1440-dark.png",
+    "route": "/desk/mesa_ridge_supply/activity",
+    "title": "Activity",
+    "caption": "Audit trail of who did what and when.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "activity",
+    "status": 200
+  },
+  {
+    "file": "activity-390.png",
+    "route": "/desk/mesa_ridge_supply/activity",
+    "title": "Activity",
+    "caption": "Audit trail of who did what and when.",
+    "width": 390,
+    "theme": "light",
+    "page": "activity",
+    "status": 200
+  },
+  {
+    "file": "pipeline-1440.png",
+    "route": "/pipeline",
+    "title": "Pipeline",
+    "caption": "Every client's close progress at a glance.",
+    "width": 1440,
+    "theme": "light",
+    "page": "pipeline",
+    "status": 200
+  },
+  {
+    "file": "pipeline-1440-dark.png",
+    "route": "/pipeline",
+    "title": "Pipeline",
+    "caption": "Every client's close progress at a glance.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "pipeline",
+    "status": 200
+  },
+  {
+    "file": "pipeline-390.png",
+    "route": "/pipeline",
+    "title": "Pipeline",
+    "caption": "Every client's close progress at a glance.",
+    "width": 390,
+    "theme": "light",
+    "page": "pipeline",
+    "status": 200
+  },
+  {
+    "file": "accuracy-1440.png",
+    "route": "/accuracy",
+    "title": "Accuracy",
+    "caption": "How often the system's coding matched the person's final call.",
+    "width": 1440,
+    "theme": "light",
+    "page": "accuracy",
+    "status": 200
+  },
+  {
+    "file": "accuracy-1440-dark.png",
+    "route": "/accuracy",
+    "title": "Accuracy",
+    "caption": "How often the system's coding matched the person's final call.",
+    "width": 1440,
+    "theme": "dark",
+    "page": "accuracy",
+    "status": 200
+  },
+  {
+    "file": "accuracy-390.png",
+    "route": "/accuracy",
+    "title": "Accuracy",
+    "caption": "How often the system's coding matched the person's final call.",
+    "width": 390,
+    "theme": "light",
+    "page": "accuracy",
+    "status": 200
+  },
+  {
+    "file": null,
+    "title": "checklist-home",
+    "page": "checklist-home",
+    "width": null,
+    "theme": null,
+    "skip": "Month-end checklist tab shows only Double's stored close, which the demo has none of"
+  }
+]

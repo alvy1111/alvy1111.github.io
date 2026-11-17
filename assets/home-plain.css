@@ -1,0 +1,20 @@
+/* Home (index.html) only: the score summary, the experience list and the contact lines. Everything else is in site.css. */
+
+/* a short schedule: label on the left, figure on the right, thin rules */
+.tally { display: grid; max-width: 36rem; }
+.tally > div { display: flex; justify-content: space-between; align-items: baseline; gap: 1.5rem; padding: .5rem 0; border-bottom: 1px solid var(--hair); }
+.tally > div:first-child { border-top: 1px solid var(--hair); }
+.tally dt { min-width: 0; }
+.tally dd { margin: 0; font-weight: 600; white-space: nowrap; }
+
+/* experience: the title and the kind of company on the left, the dates on the right */
+.roles { list-style: none; padding: 0; display: grid; gap: 1rem; }
+.roles li { display: grid; gap: 0 1.5rem; }
+.roles__title { display: block; font-weight: 600; }
+.roles__org { display: block; font-size: .9375rem; color: var(--fg3); }
+.roles__when { font-size: .9375rem; color: var(--fg2); white-space: nowrap; }
+@media (min-width: 34rem) {
+  .roles li { grid-template-columns: minmax(0, 1fr) auto; align-items: baseline; }
+}
+
+.contact-lines { list-style: none; padding: 0; display: grid; gap: .3rem; }

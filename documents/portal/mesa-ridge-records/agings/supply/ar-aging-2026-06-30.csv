@@ -1,0 +1,40 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Brelvane Foods,11707,2026-06-02,2026-07-02,0,Current,21927.13
+Brelvane Foods,11741,2026-06-11,2026-07-11,0,Current,11514.04
+Brelvane Foods,11730,2026-06-17,2026-07-17,0,Current,10560.52
+Brelvane Foods,11709,2026-06-24,2026-07-24,0,Current,16765.78
+Corvane Hotels,11736,2026-06-02,2026-07-02,0,Current,20456.62
+Corvane Hotels,11733,2026-06-16,2026-07-16,0,Current,14193.17
+Harbor Point Restaurants,11735,2026-06-04,2026-07-04,0,Current,21736.09
+Harbor Point Restaurants,11734,2026-06-09,2026-07-09,0,Current,22085.62
+Harbor Point Restaurants,11720,2026-06-10,2026-07-10,0,Current,18481.11
+Harbor Point Restaurants,11743,2026-06-11,2026-07-11,0,Current,9390.63
+Lunamere Resort,11739,2026-06-23,2026-07-23,0,Current,25762.59
+Lunamere Resort,11744,2026-06-25,2026-07-25,0,Current,20361.97
+Ostrelle Clinics,11712,2026-06-23,2026-07-23,0,Current,22447.02
+Ostrelle Clinics,11727,2026-06-25,2026-07-25,0,Current,13795.12
+Pellavo Property Management,11714,2026-06-19,2026-07-19,0,Current,10000.69
+Pellavo Property Management,11729,2026-06-19,2026-07-19,0,Current,12803.52
+Quillane Office Parks,11362,2026-03-01,2026-03-01,121,Over 90,6000.00
+Quillane Office Parks,11724,2026-06-04,2026-07-04,0,Current,25439.49
+Quillane Office Parks,11732,2026-06-10,2026-07-10,0,Current,10725.65
+Quillane Office Parks,11715,2026-06-11,2026-07-11,0,Current,17994.50
+Red Butte Hotel and Spa,11740,2026-06-23,2026-07-23,0,Current,9439.03
+Red Butte Hotel and Spa,11717,2026-06-24,2026-07-24,0,Current,18616.98
+Tarvella Market,11728,2026-06-04,2026-07-04,0,Current,23096.47
+Tarvella Market,11737,2026-06-09,2026-07-09,0,Current,11025.41
+Tarvella Market,11716,2026-06-11,2026-07-11,0,Current,18595.43
+Tarvella Market,11725,2026-06-19,2026-07-19,0,Current,16054.15
+Veldane Resorts Purchasing,11722,2026-06-01,2026-07-01,0,Current,23141.28
+Veldane Resorts Purchasing,11742,2026-06-22,2026-07-22,0,Current,12054.39
+Veldane Resorts Purchasing,11710,2026-06-24,2026-07-24,0,Current,21440.94
+Veldane Resorts Purchasing,11721,2026-06-26,2026-07-26,0,Current,18999.62
+Veltrane Medical Supply,11598,2026-05-26,2026-06-25,5,1-30,13662.71
+Veltrane Medical Supply,11726,2026-06-19,2026-07-19,0,Current,14356.52
+Wexmoor Senior Living,11711,2026-06-01,2026-07-01,0,Current,16118.75
+Wexmoor Senior Living,11718,2026-06-09,2026-07-09,0,Current,16399.43
+Wexmoor Senior Living,11731,2026-06-09,2026-07-09,0,Current,12550.87
+Wexmoor Senior Living,11708,2026-06-10,2026-07-10,0,Current,15941.35
+Wexmoor Senior Living,11713,2026-06-12,2026-07-12,0,Current,9142.21
+Wexmoor Senior Living,11738,2026-06-15,2026-07-15,0,Current,22457.22
+Wexmoor Senior Living,11723,2026-06-17,2026-07-17,0,Current,15804.93

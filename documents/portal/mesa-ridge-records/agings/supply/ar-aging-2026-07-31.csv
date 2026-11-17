@@ -1,0 +1,43 @@
+Customer,Invoice,Invoice Date,Due Date,Days Past Due,Bucket,Balance
+Basin Hospitality Group,11856,2026-07-07,2026-08-06,0,Current,19143.46
+Basin Hospitality Group,11875,2026-07-08,2026-08-07,0,Current,14255.35
+Basin Hospitality Group,11878,2026-07-16,2026-08-15,0,Current,8054.85
+Basin Hospitality Group,11872,2026-07-27,2026-08-26,0,Current,12722.56
+Brelvane Foods,11863,2026-07-21,2026-08-20,0,Current,17686.05
+Corvane Hotels,11859,2026-07-20,2026-08-19,0,Current,12534.68
+Harbor Point Restaurants,11880,2026-07-13,2026-08-12,0,Current,11328.42
+Harbor Point Restaurants,11866,2026-07-21,2026-08-20,0,Current,18297.54
+Harbor Point Restaurants,11868,2026-07-29,2026-08-28,0,Current,12652.54
+Harbor Point Restaurants,11881,2026-07-30,2026-08-29,0,Current,9565.87
+Juniper Grove Schools,11886,2026-07-03,2026-08-02,0,Current,17733.38
+Juniper Grove Schools,11869,2026-07-08,2026-08-07,0,Current,15037.34
+Juniper Grove Schools,11883,2026-07-14,2026-08-13,0,Current,18986.97
+Juniper Grove Schools,11879,2026-07-15,2026-08-14,0,Current,15156.53
+Juniper Grove Schools,11857,2026-07-24,2026-08-23,0,Current,9858.36
+Lunamere Resort,11744,2026-06-25,2026-07-25,6,1-30,20361.97
+Lunamere Resort,11870,2026-07-02,2026-08-01,0,Current,10123.41
+Lunamere Resort,11855,2026-07-22,2026-08-21,0,Current,9363.04
+Ostrelle Clinics,11887,2026-07-06,2026-08-05,0,Current,20963.04
+Pellavo Property Management,11890,2026-07-08,2026-08-07,0,Current,15369.70
+Pellavo Property Management,11860,2026-07-21,2026-08-20,0,Current,15502.56
+Pellavo Property Management,11884,2026-07-22,2026-08-21,0,Current,16478.79
+Quillane Office Parks,11362,2026-03-01,2026-03-01,152,Over 90,6000.00
+Quillane Office Parks,11861,2026-07-06,2026-08-05,0,Current,17821.57
+Quillane Office Parks,11873,2026-07-07,2026-08-06,0,Current,20649.13
+Quillane Office Parks,11893,2026-07-07,2026-08-06,0,Current,11282.15
+Quillane Office Parks,11895,2026-07-20,2026-08-19,0,Current,12067.68
+Red Butte Hotel and Spa,11888,2026-07-15,2026-08-14,0,Current,20571.35
+Saguaro Fitness Clubs,11891,2026-07-06,2026-08-05,0,Current,17415.51
+Saguaro Fitness Clubs,11862,2026-07-22,2026-08-21,0,Current,12582.04
+Saguaro Fitness Clubs,11877,2026-07-29,2026-08-28,0,Current,13080.45
+Saguaro Fitness Clubs,11876,2026-07-30,2026-08-29,0,Current,9280.09
+Saguaro Fitness Clubs,11882,2026-07-30,2026-08-29,0,Current,11435.96
+Tarvella Market,11892,2026-07-06,2026-08-05,0,Current,19678.17
+Tarvella Market,11894,2026-07-15,2026-08-14,0,Current,7497.99
+Tarvella Market,11889,2026-07-16,2026-08-15,0,Current,21263.44
+Tarvella Market,11858,2026-07-27,2026-08-26,0,Current,11154.30
+Veldane Resorts Purchasing,11864,2026-07-22,2026-08-21,0,Current,10460.89
+Veldane Resorts Purchasing,11865,2026-07-29,2026-08-28,0,Current,21971.95
+Veltrane Medical Supply,11885,2026-07-15,2026-08-14,0,Current,20162.73
+Wexmoor Senior Living,11874,2026-07-15,2026-08-14,0,Current,16068.16
+Wexmoor Senior Living,11867,2026-07-27,2026-08-26,0,Current,11024.51
